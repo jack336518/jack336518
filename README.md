@@ -6,7 +6,7 @@
 </head>
 <body>
      <h3>我的美照</h3> 
-     <img src="https://www.facebook.com/photo.php?fbid=164929487833833&set=a.164929524500496&type=3&theater"></img>
+     <img src="https://github.com/jack336518/jack336518/blob/master/cat.jpg"></img>
      <h3>我的興趣</h3>
      <ul>
           <li>趁媽媽不注意亂跑</li>
